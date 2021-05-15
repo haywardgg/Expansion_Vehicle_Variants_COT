@@ -1,0 +1,32 @@
+<Trader> Aircraft Trader
+    <Category> MH6 Little Bird
+        ExpansionMh6,                   V, 100000, 20000
+        ExpansionMh6_Blueline,          V, 150000, 75000
+        ExpansionMh6_Digital,           V, 150000, 75000
+        ExpansionMh6_Elliptical,        V, 150000, 75000
+        ExpansionMh6_Furious,           V, 150000, 75000
+        ExpansionMh6_GrayWatcher,       V, 150000, 75000
+        ExpansionMh6_Jeans,             V, 150000, 75000
+        ExpansionMh6_Resistance,        V, 150000, 75000
+        ExpansionMh6_Shadow,            V, 150000, 75000
+        ExpansionMh6_Sheriff,           V, 150000, 75000
+        ExpansionMh6_Speedy,            V, 150000, 75000
+        ExpansionMh6_Sunset,            V, 150000, 75000
+        ExpansionMh6_Vrana,             V, 150000, 75000
+        ExpansionMh6_Wasp,              V, 150000, 75000
+        ExpansionMh6_Wave,              V, 150000, 75000
+
+    <Category> UH1H
+        ExpansionUh1h,                  V, 150000, 75000
+        ExpansionUh1h_Civilian,         V, 200000, 80000
+        ExpansionUh1h_Medical,          V, 200000, 80000
+        ExpansionUh1h_Resistance,       V, 200000, 80000
+        ExpansionUh1h_Uber,             V, 200000, 80000
+
+    <Category> Merlin
+        ExpansionMerlin,                v, 200000, 80000
+        ExpansionMerlin_Dahoman,        V, 250000, 120000
+        ExpansionMerlin_Ion,            V, 250000, 120000
+        ExpansionMerlin_President,      V, 250000, 120000
+        ExpansionMerlin_Vrana,          V, 250000, 120000
+        ExpansionMerlin_Wave,           V, 250000, 120000
